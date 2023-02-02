@@ -1,6 +1,6 @@
 package org.justin.algorithm.unit3_链表.链表反转;
 
-import org.justin.algorithm.unit3_链表.创建链表.BasicLinkList;
+import org.justin.algorithm.unit3_链表.链表反转.ReverseLinkList;
 
 public class ReverseLinkList {
 

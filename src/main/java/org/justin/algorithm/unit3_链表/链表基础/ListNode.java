@@ -1,4 +1,4 @@
-package org.justin.algorithm.unit3_链表.创建链表;
+package org.justin.algorithm.unit3_链表.链表基础;
 
 /**
  * @author Justin

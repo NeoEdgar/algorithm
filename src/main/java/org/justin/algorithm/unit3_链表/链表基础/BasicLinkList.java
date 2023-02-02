@@ -1,4 +1,7 @@
-package org.justin.algorithm.unit3_链表.创建链表;
+package org.justin.algorithm.unit3_链表.链表基础;
+
+import java.util.LinkedList;
+import java.util.Queue;
 
 /**
  * @author Justin
@@ -17,7 +20,8 @@ public class BasicLinkList {
     }
 
     public static void main(String[] args) {
-
+//        new LinkedList<>();
+//        Queue
         Node head = new Node(1);
         System.out.println("初始化节点1:"+BasicLinkList.toString(head));
 
